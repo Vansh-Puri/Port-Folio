@@ -1,0 +1,42 @@
+.container-fluid .navbar-brand{
+    cursor: initial;
+    font-weight: bolder;
+}
+
+.collapse.navbar-collapse ul{
+    position: absolute;
+    left: 60rem;
+}
+
+.collapse.navbar-collapse ul li{
+    margin: 0px 15px;
+}
+
+.name{
+    text-align: center;
+    font-size: 6rem;
+}
+
+.hi{
+    text-align: center;
+    font-size: 4rem;
+}
+
+p{
+    text-align: center;
+    letter-spacing: 10px;
+}
+
+.mybutton{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.intro{
+    margin-top: 7rem;
+}
+
+body{
+    user-select: none;
+}
